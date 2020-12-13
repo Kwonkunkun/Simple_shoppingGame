@@ -11,7 +11,7 @@
 - html, javascript, css 이용
 - 버튼 클릭시 필터링
 
-<img src="https://user-images.githubusercontent.com/59603575/102006877-3635d700-3cd9-11eb-8dd4-a9788c784c01.gif" width="50%" height="60%" />
+<img src="https://user-images.githubusercontent.com/59603575/102006877-3635d700-3cd9-11eb-8dd4-a9788c784c01.gif" width="50%" />
 
 ---
 ## 추가 사항
