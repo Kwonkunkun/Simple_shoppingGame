@@ -96,6 +96,7 @@ function onButtonClick(event, items) {
     displayItems(filterItems);
 }
 
+//성능을 위해서 오브젝트를 계속 새로 만드는 방식이 아닌 있는 오브젝트에서 보이고 안보이고로 구현 
 function updateDisplayItems(event, items) {
     const key = event.target.dataset.key;
     const value = event.target.dataset.value;
