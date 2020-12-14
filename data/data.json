@@ -1,0 +1,107 @@
+[
+    {
+        "top": "top",
+        "color": "pink",
+        "gender": "male",
+        "size": "small",
+        "image": "img/pink_t.png"
+    },
+    {
+        "top": "top",
+        "color": "yellow",
+        "gender": "male",
+        "size": "big",
+        "image": "img/yellow_t.png"
+    },
+    {
+        "top": "pants",
+        "color": "pink",
+        "gender": "female",
+        "size": "small",
+        "image": "img/pink_p.png"
+    },
+    {
+        "top": "pants",
+        "color": "pink",
+        "gender": "male",
+        "size": "small",
+        "image": "img/pink_p.png"
+    },
+    {
+        "top": "skirt",
+        "color": "blue",
+        "gender": "male",
+        "size": "small",
+        "image": "img/blue_s.png"
+    },
+    {
+        "top": "pants",
+        "color": "pink",
+        "gender": "female",
+        "size": "small",
+        "image": "img/pink_p.png"
+    },
+    {
+        "top": "skirt",
+        "color": "blue",
+        "gender": "male",
+        "size": "big",
+        "image": "img/blue_s.png"
+    },
+    {
+        "top": "pants",
+        "color": "pink",
+        "gender": "female",
+        "size": "small",
+        "image": "img/pink_p.png"
+    },
+    {
+        "top": "top",
+        "color": "blue",
+        "gender": "female",
+        "size": "small",
+        "image": "img/blue_t.png"
+    },
+    {
+        "top": "skirt",
+        "color": "pink",
+        "gender": "male",
+        "size": "small",
+        "image": "img/pink_s.png"
+    },
+    {
+        "top": "skirt",
+        "color": "pink",
+        "gender": "male",
+        "size": "big",
+        "image": "img/pink_s.png"
+    },
+    {
+        "top": "top",
+        "color": "yellow",
+        "gender": "female",
+        "size": "small",
+        "image": "img/yellow_t.png"
+    },
+    {
+        "top": "skirt",
+        "color": "blue",
+        "gender": "female",
+        "size": "big",
+        "image": "img/blue_s.png"
+    },
+    {
+        "top": "top",
+        "color": "blue",
+        "gender": "male",
+        "size": "small",
+        "image": "img/blue_t.png"
+    },
+    {
+        "top": "skirt",
+        "color": "yellow",
+        "gender": "male",
+        "size": "big",
+        "image": "img/yellow_s.png"
+    }
+]
